@@ -1,0 +1,149 @@
+{
+  "teacher_id": "92555",
+  "user_id": "20961647",
+  "s_id": "70507-92555-20961647-1756795808529-1756795871751",
+  "corp_id": "ww9876543210fedcba",
+  "session_type": "1",
+  "ip_position": "运营",
+  "user_wx_id": "wmZx7_DAAA3Qgwn71fi-6e-mWXuz7rTw",
+  "teacher_wx_id": "13893111346",
+  "send_time": "2025-08-19T17:29:33+08:00",
+  "department_name": "教学中心-课程研发部-高中英语-高中英语_广州-高中英语_广州_三组",
+  "class_id": "70507",
+  "context": [
+    {
+      "msg_id": "6141131108607630581_1756569878792_external",
+      "session_id": "wmZx7_DAAA3Qgwn71fi-6e-mWXuz7rTw_13893111346",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "我已经添加了你，现在我们可以开始聊天了。",
+      "chat_time": "1756569878792",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607630665_1756569887576_external",
+      "session_id": "wmZx7_DAAA3Qgwn71fi-6e-mWXuz7rTw_13893111346",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "您好家长~我是叫叫阅读－晧晧😁这是我们3年级的阅读群👇\n\n✅每天阅读重点总结；\n✅《三年级上册高频考点集合》资料分享；\n\n请及时进群，避免错过重要内容！",
+      "chat_time": "1756569887576",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607630765_1756569893162_external",
+      "session_id": "wmZx7_DAAA3Qgwn71fi-6e-mWXuz7rTw_13893111346",
+      "msg_type": "image",
+      "author": "老师",
+      "content": "此消息是image类型",
+      "chat_time": "1756569893162",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607630853_1756569889460_external",
+      "session_id": "wmZx7_DAAA3Qgwn71fi-6e-mWXuz7rTw_13893111346",
+      "msg_type": "link",
+      "author": "老师",
+      "content": "https://work.weixin.qq.com/wework_admin/external_room/join/exceed?vcode=7ff73fa805a837802689bcdb30c8b38e",
+      "chat_time": "1756569889460",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607630887_1756569886424_external",
+      "session_id": "wmZx7_DAAA3Qgwn71fi-6e-mWXuz7rTw_13893111346",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "家长您好，跟您确认一下，孩子开学是三年级吗？",
+      "chat_time": "1756569886424",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607630952_1756569892342_external",
+      "session_id": "wmZx7_DAAA3Qgwn71fi-6e-mWXuz7rTw_13893111346",
+      "msg_type": "voice",
+      "author": "用户",
+      "content": "是的。",
+      "chat_time": "1756569892342",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607630980_1756569921404_external",
+      "session_id": "wmZx7_DAAA3Qgwn71fi-6e-mWXuz7rTw_13893111346",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "好的哈，那我们本次的体验内容就是适合孩子的",
+      "chat_time": "1756569921404",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607631056_1756569889607_external",
+      "session_id": "wmZx7_DAAA3Qgwn71fi-6e-mWXuz7rTw_13893111346",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "孩子有坚持每天看课外书嘛？",
+      "chat_time": "1756569889607",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607631146_1756569908864_external",
+      "session_id": "wmZx7_DAAA3Qgwn71fi-6e-mWXuz7rTw_13893111346",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "⭕目前群里面已经预约超过40位家长，群里很多家长反映希望多送点福利，超过60位家长预约，可以申请给【预约的家长】额外赠送七重福利！！！\n\n🎁福利一：16节寓言里的小古文\n🎁福利二：24节基础大闯关\n🎁福利三：价值108元【好友卡】\n🎁福利四：叫叫伴读VIP年卡\n🎁福利五：阅读启航礼包\n🎁福利六：北师大阅读能力测评\n🎁福利七：8节写作全能包\n\n 👉直接在群内回复【预约】，我最终统计下预约人数，马上准备提交预约名单去申请赠品了",
+      "chat_time": "1756569908864",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607631184_1756569895982_external",
+      "session_id": "wmZx7_DAAA3Qgwn71fi-6e-mWXuz7rTw_13893111346",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "晚上好，刚刚很多家长没有时间报名，现在还剩10个额外申请到的优惠名额，这边也特意提醒您！\n\n不少家长在孩子经历三年级时会发现一个现象：孩子在一二年级时成绩一直不错，可是进入三四年级之后，成绩却大幅下降。语文的学习越往高年级走，需要的各种思维能力就越多，早期培养孩子的语文理解能力非常重要，希望家长能够继续让孩子坚持学习。\n\n🔥6阶段(2升3年级)官方报名链接：https://tef8.cn/wtBVp9",
+      "chat_time": "1756569895982",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607631228_1756569941352_external",
+      "session_id": "wmZx7_DAAA3Qgwn71fi-6e-mWXuz7rTw_13893111346",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "家长，或许您还在担心孩子学习效果不好，或许您说孩子坚持不了，或者有其他各种各样的担心，但是我们叫叫能够给到您30天无理由退款保障，30天以内不满意在APP内就能退款，仅扣除首月88元❤\n\n其实好不好真的要试了才知道，您这边给孩子确定好了吗？\n\n🔥6阶段(2升3年级)官方报名链接：https://tef8.cn/wtBVp9",
+      "chat_time": "1756569941352",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607631305_1756569923276_external",
+      "session_id": "wmZx7_DAAA3Qgwn71fi-6e-mWXuz7rTw_13893111346",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "宝贝家长在吗？我马上要下班了，家长还给孩子报名吗？ \n从小养成阅读习惯的孩子\n\n1、💥喜欢阅读和书面表达，读题理解又快又准确\n2、💥专注力优异\n3、💥沟通表达能力高，社交能力好\n马上就可以带孩子试一下，孩子会告诉你什么是正确的选择！\n\n🔥6阶段(2升3年级)官方报名链接：https://tef8.cn/wtBVp9\n\n🔥【必须领取体验的手机号码】登录报名，才能登记【赠送名额】",
+      "chat_time": "1756569923276",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    }
+  ],
+  "chat_time_start": "1756795808529",
+  "chat_time_end": "1756795871751"
+}

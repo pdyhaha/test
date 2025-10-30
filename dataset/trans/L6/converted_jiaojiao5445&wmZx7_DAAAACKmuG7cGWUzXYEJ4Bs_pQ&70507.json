@@ -1,0 +1,193 @@
+{
+  "teacher_id": "46390",
+  "user_id": "48180599",
+  "s_id": "70507-46390-48180599-1756886968865-1756886997704",
+  "corp_id": "ww9876543210fedcba",
+  "session_type": "1",
+  "ip_position": "运营",
+  "user_wx_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ",
+  "teacher_wx_id": "13589500170",
+  "send_time": "2025-08-19T15:51:43+08:00",
+  "department_name": "运营中心-客服部-综合服务-综合服务_深圳-综合服务_深圳_四组",
+  "class_id": "70507",
+  "context": [
+    {
+      "msg_id": "6141131108607651807_1756673944415_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "我已经添加了你，现在我们可以开始聊天了。",
+      "chat_time": "1756673944415",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607651838_1756673947310_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "您好家长~我是叫叫阅读－晧晧😁这是我们3年级的阅读群👇\n\n✅每天阅读重点总结；\n✅《三年级上册高频考点集合》资料分享；\n\n请及时进群，避免错过重要内容！",
+      "chat_time": "1756673947310",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607651849_1756673959409_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "image",
+      "author": "老师",
+      "content": "此消息是image类型",
+      "chat_time": "1756673959409",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607651876_1756673962427_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "link",
+      "author": "老师",
+      "content": "https://work.weixin.qq.com/wework_admin/external_room/join/exceed?vcode=74598e00af4cb1add16297e56be55ecc",
+      "chat_time": "1756673962427",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607651888_1756673958211_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "voice",
+      "author": "用户",
+      "content": "此消息是voice类型",
+      "chat_time": "1756673958211",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607651973_1756673970805_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "家长您好，跟您确认一下，孩子开学是三年级吗？",
+      "chat_time": "1756673970805",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607651987_1756673951345_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "\"家长晚上好，今天是阅读体验的第1天，打开叫叫APP-学习的界面，就可以进行到今天的内容哦~ \n\n❤既然给孩子报了名，就要行动起来哦，睡前可以抽15分钟完成吗？\"",
+      "chat_time": "1756673951345",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607652048_1756673984763_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "孩子是否还存在以下几个问题❓\n写作不知道写什么下不了笔、口水话、凑字数......✅今天就帮你解决这些问题\n\n👉进入app，点击下方【学习】即可开始，体验群回复：\n第二节【三个秘诀巧创作】已打卡✅",
+      "chat_time": "1756673984763",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607652112_1756673958551_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "今天我们是学习的写作技巧，学习到的三个秘诀可以直接运用在写植物和写风景的作文中哟！还没完成的小朋友加油啦！🚀\n\n🍭（温馨提示：连续三天完成内容的小朋友，是可以收到额外的奖励哦~ ）",
+      "chat_time": "1756673958551",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607652191_1756674007028_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "有很多家长跟我说，孩子时间不够用，做事情拖拉，平时做作业也会做到很晚。所以今天分享时间管理小妙招，做好时间管理，孩子才有更多时间进行阅读，提高阅读理解能力的同时，孩子的学习效率和做作业效率才能大幅提升哦🌹",
+      "chat_time": "1756674007028",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607652200_1756674026825_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "video",
+      "author": "老师",
+      "content": "此消息是video类型",
+      "chat_time": "1756674026825",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607652239_1756674010041_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "——📚早安📚——\n🌈快开始今天的阅读吧\n\n三节阅读内容都完成了，晚上会收到奖励哦～\n\n完成之后回复：\n第三节【福尔摩斯探案集】已打卡✅",
+      "chat_time": "1756674010041",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607652295_1756673962463_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "坚持叫叫阅读打卡三天，小朋友有哪些收获呢？\n\n👇👇解锁技能：\n🍭DAY1阅读理解帮助孩子学会：①句式：因为+文章中的内容，所以+题目中的说法。\n②窍门：“因为”“原来”向后看，“所以”“于是”向前找。\n🍭DAY2写作技巧：通过运用“五感法”的看、听、闻，帮助孩子写景物有方法。\n🍭DAY3侦探小说：①使用鱼骨图梳理故事主要线索。②认识拟人句，知道拟人句的特点。\n\n千里之行，始于足下。读过的书会融进灵魂，沉淀成智慧，静静的待在心灵深处。只要被触动，就会喷薄而出。相信坚持的力量，为孩子的坚持点赞\n\n小朋友快打开叫叫行动起来吧！",
+      "chat_time": "1756673962463",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607652296_1756674005515_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "家长，我们4天的体验看孩子还没开始呢，是忘记了还是不会操作呀？",
+      "chat_time": "1756674005515",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607652368_1756673987661_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "🙋晚上好呀，这两天有家长咨询我后续【如何报名】❓\n\n“如何让孩子养成阅读习惯❓”\n\n“如何提升阅读理解和写作能力❓”\n\n💥明天上午【10：30】会统一解答家长们的疑问，详细介绍正式阅读内容以及优惠活动\n\n💥届时也会发起拼团福利，【预约人数越多，福利越多】",
+      "chat_time": "1756673987661",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "6141131108607652383_1756674047630_external",
+      "session_id": "wmZx7_DAAAACKmuG7cGWUzXYEJ4Bs_pQ_13589500170",
+      "msg_type": "image",
+      "author": "老师",
+      "content": "此消息是image类型",
+      "chat_time": "1756674047630",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    }
+  ],
+  "chat_time_start": "1756886968865",
+  "chat_time_end": "1756886997704"
+}

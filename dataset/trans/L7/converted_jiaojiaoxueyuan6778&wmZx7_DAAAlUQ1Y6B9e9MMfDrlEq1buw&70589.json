@@ -1,0 +1,160 @@
+{
+  "teacher_id": "45368",
+  "user_id": "55165873",
+  "s_id": "70589-45368-55165873-1756848223433-1756848320371",
+  "corp_id": "ww1234567890abcdef",
+  "session_type": "1",
+  "ip_position": "运营",
+  "user_wx_id": "wmZx7_DAAAlUQ1Y6B9e9MMfDrlEq1buw",
+  "teacher_wx_id": "13845490170",
+  "send_time": "2025-08-19T20:20:51+08:00",
+  "department_name": "销售中心-新项目销售部-初中语文-初中语文_北京-初中语文_北京_一组",
+  "class_id": "70589",
+  "context": [
+    {
+      "msg_id": "9848114521622556179_1756443603024_external",
+      "session_id": "wmZx7_DAAAlUQ1Y6B9e9MMfDrlEq1buw_13845490170",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "我已经添加了你，现在我们可以开始聊天了。",
+      "chat_time": "1756443603024",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "9848114521622556250_1756443608751_external",
+      "session_id": "wmZx7_DAAAlUQ1Y6B9e9MMfDrlEq1buw_13845490170",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "您好家长~我是叫叫阅读－言茉😁这是我们暑期阅读群\n👇\n✅语文阅读理解答题写不到得分点；\n\n✅写作没思路，全是流水账；\n\n✅高年级必考阅读技巧\n\n\n📈 4天攻克以上难题，点击加入👇",
+      "chat_time": "1756443608751",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "9848114521622556310_1756443607126_external",
+      "session_id": "wmZx7_DAAAlUQ1Y6B9e9MMfDrlEq1buw_13845490170",
+      "msg_type": "image",
+      "author": "老师",
+      "content": "此消息是image类型",
+      "chat_time": "1756443607126",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "9848114521622556311_1756443619620_external",
+      "session_id": "wmZx7_DAAAlUQ1Y6B9e9MMfDrlEq1buw_13845490170",
+      "msg_type": "link",
+      "author": "老师",
+      "content": "https://work.weixin.qq.com/wework_admin/external_room/join/exceed?vcode=b3f6d81b4c490727fa158ada335f6b48",
+      "chat_time": "1756443619620",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "9848114521622556380_1756443629800_external",
+      "session_id": "wmZx7_DAAAlUQ1Y6B9e9MMfDrlEq1buw_13845490170",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "家长您好，马上九月份开学，孩子是读四年级还是五年级呢？",
+      "chat_time": "1756443629800",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "9848114521622556397_1756443643679_external",
+      "session_id": "wmZx7_DAAAlUQ1Y6B9e9MMfDrlEq1buw_13845490170",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "？",
+      "chat_time": "1756443643679",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "9848114521622556496_1756443632808_external",
+      "session_id": "wmZx7_DAAAlUQ1Y6B9e9MMfDrlEq1buw_13845490170",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "我不是家长",
+      "chat_time": "1756443632808",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "9848114521622556589_1756443652465_external",
+      "session_id": "wmZx7_DAAAlUQ1Y6B9e9MMfDrlEq1buw_13845490170",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "你要问问我家长",
+      "chat_time": "1756443652465",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "9848114521622556596_1756443625008_external",
+      "session_id": "wmZx7_DAAAlUQ1Y6B9e9MMfDrlEq1buw_13845490170",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "我是小孩",
+      "chat_time": "1756443625008",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "9848114521622556639_1756443661092_external",
+      "session_id": "wmZx7_DAAAlUQ1Y6B9e9MMfDrlEq1buw_13845490170",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "我只负责上课",
+      "chat_time": "1756443661092",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "9848114521622556644_1756443623754_external",
+      "session_id": "wmZx7_DAAAlUQ1Y6B9e9MMfDrlEq1buw_13845490170",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "再见了，我要上课了😊",
+      "chat_time": "1756443623754",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "9848114521622556706_1756443707139_external",
+      "session_id": "wmZx7_DAAAlUQ1Y6B9e9MMfDrlEq1buw_13845490170",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "Ha ha ha ha ha",
+      "chat_time": "1756443707139",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "9848114521622556721_1756443619908_external",
+      "session_id": "wmZx7_DAAAlUQ1Y6B9e9MMfDrlEq1buw_13845490170",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "好的",
+      "chat_time": "1756443619908",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    }
+  ],
+  "chat_time_start": "1756848223433",
+  "chat_time_end": "1756848320371"
+}
