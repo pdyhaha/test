@@ -1,0 +1,95 @@
+{
+    "conversations": [
+        {
+            "author": "老师",
+            "msg_type": "image",
+            "text": "此消息是image类型",
+            "file_url": "tinman-oss://luban-media-upload-pc/wxwork/chat/files/2025/08/15/832888878428398593/1689741634683182554_1755216038229_external.png",
+            "time": "2025-08-15 09:37:48",
+            "is_sop_bi": null
+        },
+        {
+            "author": "老师",
+            "msg_type": "text",
+            "text": "咱们的【语文集训营】开课啦，第一天的语文课程已在 叫叫 学习软件解锁。《王子猷种竹》等着小诗人诵读感悟，每节课约 20 分钟，今天要完成一节！",
+            "file_url": null,
+            "time": "2025-08-15 09:37:48",
+            "is_sop_bi": 1.0
+        },
+        {
+            "author": "用户",
+            "msg_type": "text",
+            "text": "好的",
+            "file_url": null,
+            "time": "2025-08-15 10:13:39"
+        },
+        {
+            "author": "老师",
+            "msg_type": "image",
+            "text": "此消息是image类型",
+            "file_url": "tinman-oss://luban-media-upload-pc/wxwork/chat/files/2025/08/16/833251264020685825/6490797309887656230_1755302432294_external.png",
+            "time": "2025-08-16 17:44:45",
+            "is_sop_bi": null
+        },
+        {
+            "author": "老师",
+            "msg_type": "text",
+            "text": "亲爱的家长，晚上好🌹！宝贝已经超厉害的完成两天课程啦，必须狠狠夸一波👏！这两天，宝贝在语文世界里畅行无阻，破解拿分密码。",
+            "file_url": null,
+            "time": "2025-08-16 17:44:45",
+            "is_sop_bi": 1.0
+        },
+        {
+            "author": "老师",
+            "msg_type": "text",
+            "text": "老师在群内做了正式课程介绍，不知道您这边是否了解清楚，我做了具体的整理，您可以直接点击查看，不理解的地方可以直接微信问我。\n\n课程介绍链接：https://easylink.cc/y6dhob",
+            "file_url": null,
+            "time": "2025-08-17 14:44:36",
+            "is_sop_bi": 1.0
+        },
+        {
+            "author": "老师",
+            "msg_type": "text",
+            "text": "⏰优惠团购已开启，您抓紧为孩子抢购【99元双周学习包】+班期名额仅限前100位报名家长！！！\n\n👉99元报名链接：https://tef8.cn/wi2Grc（‼点链接登录【体验的手机号】报名，报名成功将支付截图发给我）",
+            "file_url": null,
+            "time": "2025-08-17 17:01:53",
+            "is_sop_bi": 1.0
+        },
+        {
+            "author": "老师",
+            "msg_type": "text",
+            "text": "为了保证学习效果，每个班级的名额也是有限的哈，报名成功和我说，我去给咱们登记",
+            "file_url": null,
+            "time": "2025-08-17 17:48:47",
+            "is_sop_bi": 1.0
+        },
+        {
+            "author": "老师",
+            "msg_type": "text",
+            "text": "初中是零起点，但是不是零基础。\n优秀的孩子都具备一个特点，他们往往不是最聪明的，但是是基础好，习惯好的。\n\n后面狠狠补，不如前面好好学，打好基础。\n咱们千万要重视， 其实孩子距离升 学不远了",
+            "file_url": null,
+            "time": "2025-08-17 20:11:18",
+            "is_sop_bi": 1.0
+        },
+        {
+            "author": "老师",
+            "msg_type": "text",
+            "text": "【想学】和【在学】是两回事，中间隔着【行动】[抱拳]\n【在学】和【学成】又是两回事，中间隔着【坚持】[握手]\n \n✅选择叫叫给孩子一个学习提升的机会，轻松省心的不止是孩子还有家长！\n 优惠报名链接：https://tef8.cn/wi2Grc",
+            "file_url": null,
+            "time": "2025-08-17 21:54:16",
+            "is_sop_bi": 1.0
+        }
+    ],
+    "business_wx_user_id": "WenRuo",
+    "third_user_id": "wmZx7_DAAA3RR9ILlTWucFhnYA31RRoA",
+    "class_id": 70002,
+    "ip_position": "运营",
+    "session_type": 1,
+    "course_segment": "L9",
+    "course_type": "训练营",
+    "course_model": "年课模式",
+    "schedule_start_date": "2025-08-15 00:00:00.0",
+    "schedule_end_date": "2025-08-17 23:59:59.0",
+    "ip_id": 17069,
+    "user_id": 81534976
+}

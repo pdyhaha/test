@@ -1,0 +1,160 @@
+{
+  "teacher_id": "17652",
+  "user_id": "79771446",
+  "s_id": "70445-17652-79771446-1756684100840-1756684169407",
+  "corp_id": "ww1234567890abcdef",
+  "session_type": "1",
+  "ip_position": "运营",
+  "user_wx_id": "wmZx7_DAAABwEibVg7oVsv5WSWxF8h-A",
+  "teacher_wx_id": "13005910000",
+  "send_time": "2025-08-24T14:48:48+08:00",
+  "department_name": "运营中心-客服部-综合服务-综合服务_深圳-综合服务_深圳_四组",
+  "class_id": "70445",
+  "context": [
+    {
+      "msg_id": "7021486105564495322_1756780645511_external",
+      "session_id": "wmZx7_DAAABwEibVg7oVsv5WSWxF8h-A_13005910000",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "宝贝家长下午好，今晚20：00在微信群内举行【阅读启动会】，了解首月阅读计划和学习方式，记得参加哦。\n————————————————\n🎈【正式阅读内容】明天开始，如果有事不能学，请提前告诉我；\n🎈记得检查【叫叫】App是否下载好；\n🎈下载好【叫叫】APP，用咱们报名手机号登录上去，点击下方学习 查看是否有明天【周一】开始的内容~❤\n\n【阅读启动会】今晚20点00开始，咱们微信群见~😊",
+      "chat_time": "1756780645511",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564495346_1756780649779_external",
+      "session_id": "wmZx7_DAAABwEibVg7oVsv5WSWxF8h-A_13005910000",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "这次阅读有纸质回绘本吗？",
+      "chat_time": "1756780649779",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564495420_1756780647791_external",
+      "session_id": "wmZx7_DAAABwEibVg7oVsv5WSWxF8h-A_13005910000",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "宝贝家长，现在是非工作时间，愛莎看到消息会第一时间回复您~\n若您着急，可以直接vx语音，或电话17337174161",
+      "chat_time": "1756780647791",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564495443_1756780659947_external",
+      "session_id": "wmZx7_DAAABwEibVg7oVsv5WSWxF8h-A_13005910000",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "YT2531932252883",
+      "chat_time": "1756780659947",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564495535_1756780653587_external",
+      "session_id": "wmZx7_DAAABwEibVg7oVsv5WSWxF8h-A_13005910000",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "已经到驿站啦",
+      "chat_time": "1756780653587",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564495573_1756780683446_external",
+      "session_id": "wmZx7_DAAABwEibVg7oVsv5WSWxF8h-A_13005910000",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "👌",
+      "chat_time": "1756780683446",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564495649_1756780675277_external",
+      "session_id": "wmZx7_DAAABwEibVg7oVsv5WSWxF8h-A_13005910000",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "[玫瑰]",
+      "chat_time": "1756780675277",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564495681_1756780707293_external",
+      "session_id": "wmZx7_DAAABwEibVg7oVsv5WSWxF8h-A_13005910000",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "下午好呀，小读者！\n再次欢迎你来到阅读1阶的大家庭🎉\n咱们已经开启阅读第一天咯，家长们要记得合理安排乖乖们按时阅读起来。万事开头难，宝贝们很需要我们多多鼓励哦，一起加油💪💪💪",
+      "chat_time": "1756780707293",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564495698_1756780669551_external",
+      "session_id": "wmZx7_DAAABwEibVg7oVsv5WSWxF8h-A_13005910000",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "——💡育儿分享💡——\n\n今天的故事是《我是画画高手》，其实绘画对于培养小朋友的创造力、想象力、审美及动手动脑的能力有着巨大的促进作用。\n\n家长在宝贝画画这件事上不过多干涉，让孩子自由发挥自己的想象力与创造力，不要只看孩子的作品像不像，而是多去欣赏孩子作品的童趣。\n\n通过本节阅读，你可以：\n\n1. 理解孩子的绘画特点。\n2. 了解如何引导以及欣赏孩子的绘画。",
+      "chat_time": "1756780669551",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564495775_1756780723604_external",
+      "session_id": "wmZx7_DAAABwEibVg7oVsv5WSWxF8h-A_13005910000",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "晚上好呀宝贝，我们今天是不是看到叫叫和他的朋友们都在画画呀而且画的都好棒呀对不对。愛莎相信你和叫叫都是画画的高手 快拿起你身边的画笔，开动你的小脑筋，创作一幅自己的作品吧 （画完之后记着录个视频发到学习群里和愛莎讲讲你画的什么哦）",
+      "chat_time": "1756780723604",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564495817_1756780743151_external",
+      "session_id": "wmZx7_DAAABwEibVg7oVsv5WSWxF8h-A_13005910000",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "❣终于周四了，今天是我们第一次来到叫叫魔法屋！今日的阅读跟前三天的方式不同，楚楚姐姐会带着大家一起进入温习！",
+      "chat_time": "1756780743151",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564495860_1756780688411_external",
+      "session_id": "wmZx7_DAAABwEibVg7oVsv5WSWxF8h-A_13005910000",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "🎤早上好呀！今天已经周五啦！声音有能量，就属我最棒✨快让愛莎听听宝贝你的声音吧~",
+      "chat_time": "1756780688411",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564495901_1756780685627_external",
+      "session_id": "wmZx7_DAAABwEibVg7oVsv5WSWxF8h-A_13005910000",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "宝贝有练习过口部操吗？",
+      "chat_time": "1756780685627",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    }
+  ],
+  "chat_time_start": "1756684100840",
+  "chat_time_end": "1756684169407"
+}

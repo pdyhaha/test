@@ -1,0 +1,182 @@
+{
+  "teacher_id": "49907",
+  "user_id": "81410449",
+  "s_id": "70445-49907-81410449-1756561643107-1756561720206",
+  "corp_id": "ww1234567890abcdef",
+  "session_type": "1",
+  "ip_position": "运营",
+  "user_wx_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g",
+  "teacher_wx_id": "13438264173",
+  "send_time": "2025-08-24T14:46:31+08:00",
+  "department_name": "教学中心-课程研发部-高中英语-高中英语_广州-高中英语_广州_三组",
+  "class_id": "70445",
+  "context": [
+    {
+      "msg_id": "7021486105564574468_1756652088602_external",
+      "session_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g_13438264173",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "宝贝家长下午好，今晚20：00在微信群内举行【阅读启动会】，了解首月阅读计划和学习方式，记得参加哦。\n————————————————\n🎈【正式阅读内容】明天开始，如果有事不能学，请提前告诉我；\n🎈记得检查【叫叫】App是否下载好；\n🎈下载好【叫叫】APP，用咱们报名手机号登录上去，点击下方学习 查看是否有明天【周一】开始的内容~❤\n\n【阅读启动会】今晚20点00开始，咱们微信群见~😊",
+      "chat_time": "1756652088602",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564574486_1756652092963_external",
+      "session_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g_13438264173",
+      "msg_type": "voice",
+      "author": "老师",
+      "content": "嗯，您开始，宝贝，下午好呀，艾莎看到你完成了我们今天的阅读内容，嗯，在这个过程中呢，你一直在认真的去思考，完成的又快又准确，而且声音也非常的洪亮，那艾莎可不可以跟你互动一下呀？如果说你在路上遇到了自己的好朋友，我们应该跟他说哪句话呀？",
+      "chat_time": "1756652092963",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564574523_1756652091036_external",
+      "session_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g_13438264173",
+      "msg_type": "voice",
+      "author": "用户",
+      "content": "你好。",
+      "chat_time": "1756652091036",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564574539_1756652099231_external",
+      "session_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g_13438264173",
+      "msg_type": "emotion",
+      "author": "老师",
+      "content": "此消息是emotion类型",
+      "chat_time": "1756652099231",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564574541_1756652100226_external",
+      "session_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g_13438264173",
+      "msg_type": "voice",
+      "author": "老师",
+      "content": "哇，宝贝，你怎么这么厉害呀，一下子就答对了，回答的非常正确，特别棒。",
+      "chat_time": "1756652100226",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564574565_1756652137847_external",
+      "session_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g_13438264173",
+      "msg_type": "voice",
+      "author": "老师",
+      "content": "在哪回家那哎啥，再问一下宝贝，如果你吃饭的时候不小心把碗给打翻了，那我们应该怎么跟妈妈或者是跟身边的其他人去讲呢？",
+      "chat_time": "1756652137847",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564574655_1756652115404_external",
+      "session_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g_13438264173",
+      "msg_type": "voice",
+      "author": "用户",
+      "content": "对不起，对。",
+      "chat_time": "1756652115404",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564574735_1756652124666_external",
+      "session_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g_13438264173",
+      "msg_type": "voice",
+      "author": "老师",
+      "content": "宝贝真厉害，看来今天的内容全部都掌握了，说明阅读的过程中非常认真，给你的学习态度点个赞。那我们明天继续加油好不好？",
+      "chat_time": "1756652124666",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564574736_1756652161618_external",
+      "session_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g_13438264173",
+      "msg_type": "voice",
+      "author": "用户",
+      "content": "谢谢老师。",
+      "chat_time": "1756652161618",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564574818_1756652143727_external",
+      "session_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g_13438264173",
+      "msg_type": "emotion",
+      "author": "老师",
+      "content": "此消息是emotion类型",
+      "chat_time": "1756652143727",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564574821_1756652098792_external",
+      "session_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g_13438264173",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "[爱心]",
+      "chat_time": "1756652098792",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564574864_1756652108292_external",
+      "session_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g_13438264173",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "——💡育儿分享💡——\n\n今天的故事是《我是画画高手》，其实绘画对于培养小朋友的创造力、想象力、审美及动手动脑的能力有着巨大的促进作用。\n\n家长在宝贝画画这件事上不过多干涉，让孩子自由发挥自己的想象力与创造力，不要只看孩子的作品像不像，而是多去欣赏孩子作品的童趣。\n\n通过本节阅读，你可以：\n\n1. 理解孩子的绘画特点。\n2. 了解如何引导以及欣赏孩子的绘画。",
+      "chat_time": "1756652108292",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564574903_1756652111162_external",
+      "session_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g_13438264173",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "晚上好呀宝贝，我们今天是不是看到叫叫和他的朋友们都在画画呀而且画的都好棒呀对不对。愛莎相信你和叫叫都是画画的高手 快拿起你身边的画笔，开动你的小脑筋，创作一幅自己的作品吧 （画完之后记着录个视频发到学习群里和愛莎讲讲你画的什么哦）",
+      "chat_time": "1756652111162",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564574955_1756652164756_external",
+      "session_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g_13438264173",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "宝贝，今天是你坚持阅读的第四天啦，快给自己点个赞👍也要给大朋友鼓掌呢。辛苦一直陪伴宝贝坚持🙌 今天愛莎没有安排挑战任务，不过宝贝可以和愛莎分享一下今天发生的有趣的事情哦🐣🐣",
+      "chat_time": "1756652164756",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564574968_1756652144504_external",
+      "session_id": "wmZx7_DAAAvgCKV5MovVwDOB5jcAcm_g_13438264173",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "🎤早上好呀！今天已经周五啦！声音有能量，就属我最棒✨快让愛莎听听宝贝你的声音吧~",
+      "chat_time": "1756652144504",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    }
+  ],
+  "chat_time_start": "1756561643107",
+  "chat_time_end": "1756561720206"
+}

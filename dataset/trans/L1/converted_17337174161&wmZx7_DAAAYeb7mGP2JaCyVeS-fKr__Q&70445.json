@@ -1,0 +1,116 @@
+{
+  "teacher_id": "48045",
+  "user_id": "80720018",
+  "s_id": "70445-48045-80720018-1756449368194-1756449416147",
+  "corp_id": "ww9876543210fedcba",
+  "session_type": "1",
+  "ip_position": "运营",
+  "user_wx_id": "wmZx7_DAAAYeb7mGP2JaCyVeS-fKr__Q",
+  "teacher_wx_id": "13219568947",
+  "send_time": "2025-08-24T14:48:30+08:00",
+  "department_name": "销售中心-新项目销售部-初中语文-初中语文_北京-初中语文_北京_一组",
+  "class_id": "70445",
+  "context": [
+    {
+      "msg_id": "7021486105564580243_1756476883424_external",
+      "session_id": "wmZx7_DAAAYeb7mGP2JaCyVeS-fKr__Q_13219568947",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "宝贝家长下午好，今晚20：00在微信群内举行【阅读启动会】，了解首月阅读计划和学习方式，记得参加哦。\n————————————————\n🎈【正式阅读内容】明天开始，如果有事不能学，请提前告诉我；\n🎈记得检查【叫叫】App是否下载好；\n🎈下载好【叫叫】APP，用咱们报名手机号登录上去，点击下方学习 查看是否有明天【周一】开始的内容~❤\n\n【阅读启动会】今晚20点00开始，咱们微信群见~😊",
+      "chat_time": "1756476883424",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564580282_1756476889776_external",
+      "session_id": "wmZx7_DAAAYeb7mGP2JaCyVeS-fKr__Q_13219568947",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "👌🏻",
+      "chat_time": "1756476889776",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564580322_1756476887964_external",
+      "session_id": "wmZx7_DAAAYeb7mGP2JaCyVeS-fKr__Q_13219568947",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "[玫瑰]",
+      "chat_time": "1756476887964",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564580342_1756476900152_external",
+      "session_id": "wmZx7_DAAAYeb7mGP2JaCyVeS-fKr__Q_13219568947",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "下午好呀，小读者！\n再次欢迎你来到阅读1阶的大家庭🎉\n咱们已经开启阅读第一天咯，家长们要记得合理安排乖乖们按时阅读起来。万事开头难，宝贝们很需要我们多多鼓励哦，一起加油💪💪💪",
+      "chat_time": "1756476900152",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564580360_1756476915980_external",
+      "session_id": "wmZx7_DAAAYeb7mGP2JaCyVeS-fKr__Q_13219568947",
+      "msg_type": "voice",
+      "author": "老师",
+      "content": "呃，晚上好，我们今天的内容呢，是有魔力的话，鼓励宝贝大胆的去打招呼，培养宝贝懂礼貌，讲文明的好习惯的。嗯，我们要提醒宝贝学习今天的阅读内容。",
+      "chat_time": "1756476915980",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564580370_1756476896894_external",
+      "session_id": "wmZx7_DAAAYeb7mGP2JaCyVeS-fKr__Q_13219568947",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "——💡育儿分享💡——\n\n今天的故事是《我是画画高手》，其实绘画对于培养小朋友的创造力、想象力、审美及动手动脑的能力有着巨大的促进作用。\n\n家长在宝贝画画这件事上不过多干涉，让孩子自由发挥自己的想象力与创造力，不要只看孩子的作品像不像，而是多去欣赏孩子作品的童趣。\n\n通过本节阅读，你可以：\n\n1. 理解孩子的绘画特点。\n2. 了解如何引导以及欣赏孩子的绘画。",
+      "chat_time": "1756476896894",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564580377_1756476929294_external",
+      "session_id": "wmZx7_DAAAYeb7mGP2JaCyVeS-fKr__Q_13219568947",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "晚上好呀宝贝，我们今天是不是看到叫叫和他的朋友们都在画画呀而且画的都好棒呀对不对。愛莎相信你和叫叫都是画画的高手 快拿起你身边的画笔，开动你的小脑筋，创作一幅自己的作品吧 （画完之后记着录个视频发到学习群里和愛莎讲讲你画的什么哦）",
+      "chat_time": "1756476929294",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564580473_1756476892902_external",
+      "session_id": "wmZx7_DAAAYeb7mGP2JaCyVeS-fKr__Q_13219568947",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "❣终于周四了，今天是我们第一次来到叫叫魔法屋！今日的阅读跟前三天的方式不同，楚楚姐姐会带着大家一起进入温习！",
+      "chat_time": "1756476892902",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "7021486105564580568_1756476944424_external",
+      "session_id": "wmZx7_DAAAYeb7mGP2JaCyVeS-fKr__Q_13219568947",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "🎤早上好呀！今天已经周五啦！声音有能量，就属我最棒✨快让愛莎听听宝贝你的声音吧~",
+      "chat_time": "1756476944424",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    }
+  ],
+  "chat_time_start": "1756449368194",
+  "chat_time_end": "1756449416147"
+}

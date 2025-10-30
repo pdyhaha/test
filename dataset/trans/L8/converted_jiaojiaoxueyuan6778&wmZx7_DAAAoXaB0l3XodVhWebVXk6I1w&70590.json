@@ -1,0 +1,182 @@
+{
+  "teacher_id": "33008",
+  "user_id": "65360348",
+  "s_id": "70590-33008-65360348-1756662938370-1756662989353",
+  "corp_id": "ww1234567890abcdef",
+  "session_type": "1",
+  "ip_position": "运营",
+  "user_wx_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w",
+  "teacher_wx_id": "13604020874",
+  "send_time": "2025-08-19T09:23:35+08:00",
+  "department_name": "教学中心-课程研发部-高中英语-高中英语_广州-高中英语_广州_三组",
+  "class_id": "70590",
+  "context": [
+    {
+      "msg_id": "3131636293964707862_1756871332412_external",
+      "session_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w_13604020874",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "我已经添加了你，现在我们可以开始聊天了。",
+      "chat_time": "1756871332412",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "3131636293964707882_1756871341424_external",
+      "session_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w_13604020874",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "您好家长~我是叫叫阅读－言茉😁这是我们暑期阅读群\n👇\n✅语文阅读理解答题写不到得分点；\n\n✅写作没思路，全是流水账；\n\n✅高年级必考阅读技巧\n\n\n📈 4天攻克以上难题，点击加入👇",
+      "chat_time": "1756871341424",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "3131636293964707912_1756871335074_external",
+      "session_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w_13604020874",
+      "msg_type": "image",
+      "author": "老师",
+      "content": "此消息是image类型",
+      "chat_time": "1756871335074",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "3131636293964707987_1756871340305_external",
+      "session_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w_13604020874",
+      "msg_type": "link",
+      "author": "老师",
+      "content": "https://work.weixin.qq.com/wework_admin/external_room/join/exceed?vcode=4697a15b2b19f25662380dca57a3fb44",
+      "chat_time": "1756871340305",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "3131636293964708049_1756871337360_external",
+      "session_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w_13604020874",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "家长您好，马上九月份开学，孩子是读四年级还是五年级呢？",
+      "chat_time": "1756871337360",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "3131636293964708102_1756871373652_external",
+      "session_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w_13604020874",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "叫叫阅读Day1来啦！\n📖10分钟让孩子掌握一类四五年级必考题——词语理解\n\n赶快进入叫叫app，点击下方【学习】开启第一天的学习吧！",
+      "chat_time": "1756871373652",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "3131636293964708185_1756871375594_external",
+      "session_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w_13604020874",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "小朋友记得抽15分钟完成今天的阅读内容哦！开启第二天的专项阅读技巧训练，是必考的题型哦~😀",
+      "chat_time": "1756871375594",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "3131636293964708257_1756871373152_external",
+      "session_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w_13604020874",
+      "msg_type": "link",
+      "author": "老师",
+      "content": "https://work.weixin.qq.com/wework_admin/external_room/join/exceed?vcode=0ad21176d4ec6bf77b4c10ff6fa07f81",
+      "chat_time": "1756871373152",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "3131636293964708300_1756871343908_external",
+      "session_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w_13604020874",
+      "msg_type": "text",
+      "author": "老师",
+      "content": "小朋友，我又来提醒阅读啦🙋‍♀️\n\n❤咱们一定要行动起来呀！今天学习的技巧和方法《赏析修辞手法》，帮助孩子积累必考题型的答题模板💪快来挑战～\n\n（另外想问一下，孩子有没有提前做下学期的预习呢？）",
+      "chat_time": "1756871343908",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "3131636293964708305_1756871380913_external",
+      "session_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w_13604020874",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "傻逼神经病",
+      "chat_time": "1756871380913",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "3131636293964708329_1756871388192_external",
+      "session_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w_13604020874",
+      "msg_type": "text",
+      "author": "用户",
+      "content": "你妈脑子有病",
+      "chat_time": "1756871388192",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "3131636293964708392_1756871401558_external",
+      "session_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w_13604020874",
+      "msg_type": "emotion",
+      "author": "用户",
+      "content": "此消息是emotion类型",
+      "chat_time": "1756871401558",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "3131636293964708476_1756871437712_external",
+      "session_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w_13604020874",
+      "msg_type": "emotion",
+      "author": "用户",
+      "content": "此消息是emotion类型",
+      "chat_time": "1756871437712",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "3131636293964708566_1756871347440_external",
+      "session_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w_13604020874",
+      "msg_type": "emotion",
+      "author": "用户",
+      "content": "此消息是emotion类型",
+      "chat_time": "1756871347440",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    },
+    {
+      "msg_id": "3131636293964708608_1756871383820_external",
+      "session_id": "wmZx7_DAAAoXaB0l3XodVhWebVXk6I1w_13604020874",
+      "msg_type": "voice",
+      "author": "老师",
+      "content": "小朋友请文明用语哈。",
+      "chat_time": "1756871383820",
+      "if_sop_bi": "0",
+      "valid": 1,
+      "if_sop_strict": 0
+    }
+  ],
+  "chat_time_start": "1756662938370",
+  "chat_time_end": "1756662989353"
+}
