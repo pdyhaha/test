@@ -1,9 +1,15 @@
 from fastapi import FastAPI
+from pydantic import BaseModel
+
 
 
 app = FastAPI()
 
-
+class Message(BaseModel):
+    message: str
+    name: str
+    
+    
 @app.get("/")
 async def root():
     return {"message": "Hello World"}
