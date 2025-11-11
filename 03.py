@@ -8,6 +8,7 @@ app = FastAPI()
 class Message(BaseModel):
     message: str
     name: str
+    price: float
     
     
 @app.get("/")
