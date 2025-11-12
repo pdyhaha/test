@@ -10,6 +10,10 @@ class Message(BaseModel):
     name: str
     price: float
     
+@app.post("/")
+async def root(message: Message):
+    return {"message": message.message, "name": message.name, "price": message.price}
+    
     
 @app.get("/")
 async def root():
@@ -17,4 +21,4 @@ async def root():
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8000, reload=True)

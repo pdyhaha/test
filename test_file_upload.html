@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文件传输测试页面</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .section {
+            margin-bottom: 30px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .section h2 {
+            color: #555;
+            margin-top: 0;
+        }
+        input[type="file"] {
+            margin: 10px 0;
+            padding: 10px;
+            border: 2px dashed #ccc;
+            border-radius: 5px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .result {
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 5px;
+            white-space: pre-wrap;
+        }
+        .success {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .error {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        .file-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .file-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+            margin: 5px 0;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+        }
+        .file-actions button {
+            margin-left: 5px;
+            padding: 5px 10px;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>文件传输服务测试页面</h1>
+        
+        <div class="section">
+            <h2>上传单个文件</h2>
+            <input type="file" id="singleFile">
+            <button onclick="uploadSingleFile()">上传文件</button>
+            <div id="singleResult" class="result"></div>
+        </div>
+        
+        <div class="section">
+            <h2>上传多个文件</h2>
+            <input type="file" id="multipleFiles" multiple>
+            <button onclick="uploadMultipleFiles()">上传文件</button>
+            <div id="multipleResult" class="result"></div>
+        </div>
+        
+        <div class="section">
+            <h2>文件列表</h2>
+            <button onclick="listFiles()">刷新文件列表</button>
+            <ul id="fileList" class="file-list"></ul>
+        </div>
+        
+        <div class="section">
+            <h2>API信息</h2>
+            <button onclick="getApiInfo()">获取API信息</button>
+            <div id="apiInfo" class="result"></div>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = 'http://localhost:8001';
+        
+        function showResult(elementId, message, isError = false) {
+            const element = document.getElementById(elementId);
+            element.textContent = message;
+            element.className = 'result ' + (isError ? 'error' : 'success');
+        }
+        
+        async function uploadSingleFile() {
+            const fileInput = document.getElementById('singleFile');
+            const file = fileInput.files[0];
+            
+            if (!file) {
+                showResult('singleResult', '请选择一个文件', true);
+                return;
+            }
+            
+            const formData = new FormData();
+            formData.append('file', file);
+            
+            try {
+                const response = await fetch(`${API_BASE}/upload/`, {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const result = await response.json();
+                
+                if (response.ok) {
+                    showResult('singleResult', `上传成功！\n文件名: ${result.filename}\n文件大小: ${result.file_size} 字节`);
+                    listFiles(); // 刷新文件列表
+                } else {
+                    showResult('singleResult', `上传失败: ${result.detail}`, true);
+                }
+            } catch (error) {
+                showResult('singleResult', `网络错误: ${error.message}`, true);
+            }
+        }
+        
+        async function uploadMultipleFiles() {
+            const fileInput = document.getElementById('multipleFiles');
+            const files = fileInput.files;
+            
+            if (files.length === 0) {
+                showResult('multipleResult', '请选择至少一个文件', true);
+                return;
+            }
+            
+            const formData = new FormData();
+            for (let file of files) {
+                formData.append('files', file);
+            }
+            
+            try {
+                const response = await fetch(`${API_BASE}/upload/multiple/`, {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const result = await response.json();
+                
+                if (response.ok) {
+                    let message = `上传成功！\n总文件数: ${result.total_files}\n总大小: ${result.total_size} 字节\n\n文件详情:\n`;
+                    result.uploaded_files.forEach(file => {
+                        message += `- ${file.filename} (${file.file_size} 字节)\n`;
+                    });
+                    showResult('multipleResult', message);
+                    listFiles(); // 刷新文件列表
+                } else {
+                    showResult('multipleResult', `上传失败: ${result.detail}`, true);
+                }
+            } catch (error) {
+                showResult('multipleResult', `网络错误: ${error.message}`, true);
+            }
+        }
+        
+        async function listFiles() {
+            try {
+                const response = await fetch(`${API_BASE}/files/`);
+                const result = await response.json();
+                
+                if (response.ok) {
+                    const fileList = document.getElementById('fileList');
+                    fileList.innerHTML = '';
+                    
+                    if (result.files.length === 0) {
+                        fileList.innerHTML = '<li>暂无文件</li>';
+                    } else {
+                        result.files.forEach(file => {
+                            const li = document.createElement('li');
+                            li.className = 'file-item';
+                            li.innerHTML = `
+                                <span>${file.filename} (${file.file_size} 字节)</span>
+                                <div class="file-actions">
+                                    <button onclick="downloadFile('${file.filename}')">下载</button>
+                                    <button onclick="deleteFile('${file.filename}')">删除</button>
+                                </div>
+                            `;
+                            fileList.appendChild(li);
+                        });
+                    }
+                } else {
+                    console.error('获取文件列表失败:', result.detail);
+                }
+            } catch (error) {
+                console.error('网络错误:', error.message);
+            }
+        }
+        
+        function downloadFile(filename) {
+            window.open(`${API_BASE}/download/${filename}`, '_blank');
+        }
+        
+        async function deleteFile(filename) {
+            if (!confirm(`确定要删除文件 "${filename}" 吗？`)) {
+                return;
+            }
+            
+            try {
+                const response = await fetch(`${API_BASE}/files/${filename}`, {
+                    method: 'DELETE'
+                });
+                
+                const result = await response.json();
+                
+                if (response.ok) {
+                    alert(result.message);
+                    listFiles(); // 刷新文件列表
+                } else {
+                    alert(`删除失败: ${result.detail}`);
+                }
+            } catch (error) {
+                alert(`网络错误: ${error.message}`);
+            }
+        }
+        
+        async function getApiInfo() {
+            try {
+                const response = await fetch(`${API_BASE}/`);
+                const result = await response.json();
+                
+                if (response.ok) {
+                    let info = `服务信息:\n${result.message}\n\n可用接口:\n`;
+                    for (const [endpoint, description] of Object.entries(result.endpoints)) {
+                        info += `${endpoint}: ${description}\n`;
+                    }
+                    showResult('apiInfo', info);
+                } else {
+                    showResult('apiInfo', `获取API信息失败: ${result.detail}`, true);
+                }
+            } catch (error) {
+                showResult('apiInfo', `网络错误: ${error.message}`, true);
+            }
+        }
+        
+        // 页面加载时自动获取文件列表
+        window.onload = function() {
+            listFiles();
+        };
+    </script>
+</body>
+</html>
