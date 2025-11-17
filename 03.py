@@ -10,10 +10,6 @@ class Message(BaseModel):
     name: str
     price: float
     
-@app.post("/")
-async def root(message: Message):
-    return {"message": message.message, "name": message.name, "price": message.price}
-    
     
 @app.get("/")
 async def root():
